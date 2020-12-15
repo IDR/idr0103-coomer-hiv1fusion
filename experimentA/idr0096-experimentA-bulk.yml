@@ -1,0 +1,10 @@
+---
+continue: true
+transfer: "ln_s"
+exclude: "clientpath"
+skip: "checksum"
+output: "yaml"
+path: "idr0103-experimentA-filePaths.tsv"
+columns:
+    - target
+    - path
