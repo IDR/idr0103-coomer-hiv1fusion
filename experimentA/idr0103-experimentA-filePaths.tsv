@@ -1,18 +1,18 @@
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1-C2-JRFL_control_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1-C2-NoEnv_Control_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R2-C1-C2-JRFL_control_t1-NEW.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1-C2-NoEnv_Control_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R3-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R3-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit-NEW.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1--C2-JR_FL_100mM_2DG-32bit-NEW.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1-C2-JRFL_control_32bit-NEW.ome.tif
-Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Figure-1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1-C2-NoEnv_Control_32bit-NEW.ome.tif
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif	R1-100mM2DG_100ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif	R1-100mM2DG_200ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit.tif.ome.tif	R1-100mM2DG_400ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1--C2-100mM2DG_JRFL_32bit.tif.ome.tif	R1-100mM2DG_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1-C2-JRFL_control_32bit.tif.ome.tif	R1-JRFL_control
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep1	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R1-C1-C2-NoEnv_Control_32bit.tif.ome.tif	R1-NoEnv_Control
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif	R2-100mM2DG_100ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif	R2-100mM2DG_200ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit.tif.ome.tif	R2-100mM2DG_400ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1--C2-100mM2DG_JRFL_32bit.tif.ome.tif	R2-100mM2DG_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R2-C1-C2-JRFL_control_t1-NEW.ome.tif	R2-JRFL_control
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep2	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R2-C1-C2-NoEnv_Control_32bit.tif.ome.tif	R2-NoEnv_Control
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R3-C1--C2-100mM2DG_100ug_Chol_JRFL_32bit.tif.ome.tif	R3-100mM2DG_100ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201214-ftp/R3-C1--C2-100mM2DG_200ug_Chol_JRFL_32bit.tif.ome.tif	R3-100mM2DG_200ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1--C2-100mM2DG_400ug_Chol_JRFL_32bit-NEW.ome.tif	R3-100mM2DG_400ug_Chol_JRFL
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1--C2-JR_FL_100mM_2DG-32bit-NEW.ome.tif	R3-JRFL_100mM_2DG
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1-C2-JRFL_control_32bit-NEW.ome.tif	R3-JRFL_control
+Project:name:idr0103-coomer-hiv1fusion/experimentA/Dataset:name:Rep3	/uod/idr/filesets/idr0103-coomer-hiv1fusion/20201218-ftp/R3-C1-C2-NoEnv_Control_32bit-NEW.ome.tif	R3-NoEnv_Control
