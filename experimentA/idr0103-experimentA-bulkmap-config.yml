@@ -1,0 +1,69 @@
+---
+name: idr0103-coomer-hiv1fusion/experimentA
+version: 1
+
+defaults:
+  include: no
+  type: string
+  includeclient: yes
+  visible: yes
+  omitempty: yes
+
+columns:
+
+  - name: Experimental Condition [2 Deoxyglucose Treatment]
+    clientname: 2 Deoxyglucose Treatment
+    include: yes
+
+  - name: Experimental Condition [Cholesterol Treatment]
+    clientname: Cholesterol Treatment
+    include: yes
+
+  - name: Control Type
+    clientname: Control Type
+    include: yes
+
+  - name: Comment [Control Type]
+    clientname: Control Type Comment
+    include: yes
+
+  - name: Channels
+    clientname: Channels
+    include: yes
+
+
+  ######################################################################
+  # mapr groups
+  ######################################################################
+
+  - group:
+      namespace: openmicroscopy.org/mapr/organism
+      columns:
+        - name: Characteristics [Organism]
+          clientname: Organism
+          include: yes
+
+  - group:
+      namespace: openmicroscopy.org/mapr/cell_line
+      columns:
+        - name: Characteristics [Cell Line]
+          clientname: Cell Line
+          include: true
+
+  - group:
+      namespace: openmicroscopy.org/mapr/cell_line/supplementary
+      columns:
+      - name: Comment [Cell Line]
+        clientname: Cell Line Comment
+        include: yes
+
+
+advanced:
+  ignore_missing_primary_key: yes
+  primary_group_keys:
+    - namespace: openmicroscopy.org/mapr/organism
+      keys:
+        - Organism
+    - namespace: openmicroscopy.org/mapr/cell_line
+      keys:
+        - Cell Line
