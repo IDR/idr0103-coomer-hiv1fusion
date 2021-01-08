@@ -69,7 +69,7 @@ def process_line(conn, project, line, link_image, count):
                 attachment_path = parts[0]
                 image_name_matches = (parts[length - 1] == image_name)
                 if (image_name_matches):
-                    link(conn, image, attachment_path, link_image)
+                    #link(conn, image, attachment_path, link_image)
                     print("Linked attachment %s to image %s" %
                             (attachment_path, image.getName().getValue()))
 #        elif dataset.getName().getValue().startswith(dataset_name):
