@@ -15,7 +15,7 @@ import omero.clients
 import omero.cli
 from omero_upload import upload_ln_s
 
-project_id = 1451
+project_id = 1501
 attachment_file = "/tmp/attachments.csv"
 link_to_image = True
 image_ending_right = False
