@@ -54,7 +54,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 Experiment Number	1															
 Comment[IDR Experiment Name]	idr0103-coomer-hiv1fusion/experimentA	
 
-Experiment Sample Type cell
+Experiment Sample Type	cell
 					
 Experiment Description	TZM-bl cells stably expressing CD4 and CCR5 receptors and charged with CCF2, were exposed to HIV-1 pseudoparticles where the Vpr is cloned with BlaM (Vpr-Blam) at MOI = 1. When treating the cells with 100 mM 2-Deoxyglucose (2DG), HIV-1 fusion is blocked. Successive treatment of these cells with 100, 200 and 400 ug/mL of Cholesterol rescues HIV-1 fusion. This experiment shows that cholesterol is key for HIV-1 fusion and that 2DG might downregulate the concentration of cholesterol in the plasma membrane of the host, impeding HIV-1 to effectively fuse in the host.  There are 3 different repeats and in each repeat 6 different experiments (images acquired in different conditions).  																		
 Experiment Size	5D Images: 	Average Image Dimension (XYZCT):XY C1 and C2	Total Tb: 						
