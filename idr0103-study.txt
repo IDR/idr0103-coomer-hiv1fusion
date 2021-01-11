@@ -1,0 +1,154 @@
+# FILL IN AS MUCH INFORMATION AS YOU CAN.  HINTS HAVE BEEN PUT IN SOME FIELDS AFTER THE HASH # SYMBOL. REPLACE THE HINT WITH TEXT WHERE APPROPRIATE.			
+# STUDY DESCRIPTION SECTION									
+# Section with generic information about the study including title, description, publication details (if applicable) and contact details																											
+Comment[IDR Study Accession]	idr0103																				
+Study Title	HIV-1 fusion is disrupted by addition of deoxygluose and is rescued with addition of cholesterol																				
+Study Type	process of establishing viral infection
+							
+Study Type Term Source REF	VIDO		
+						
+Study Type Term Accession	VIDO_0001195
+
+
+								
+Study Description	There has been resurgence in determining the role of host metabolism in viral infection yet deciphering how the metabolic state of single cells affects viral entry and fusion remains unknown. Here, we have developed a novel assay multiplexing genetically-encoded biosensors with single virus tracking (SVT) to evaluate the influence of global metabolic processes on the success rate of virus entry in single cells. We found that cells with a lower ATP:ADP ratio prior to virus addition were less permissive to virus fusion and infection. These results indicated a relationship between host metabolic state and the likelihood for virus-cell fusion to occur. SVT revealed that HIV-1 virions were arrested at hemifusion in glycolytically-inactive cells. Interestingly, cells acutely treated with glycolysis inhibitor 2-deoxyglucose (2-DG) become resistant to virus infection and also display less surface membrane cholesterol. Addition of cholesterol in these in glycolytically-inactive cells rescued the virus entry block at hemifusion and enabled completion of HIV-1 fusion. Further investigation with FRET-based membrane tension and membrane order reporters revealed a link between host cell glycolytic activity and host membrane order and tension. Indeed, cells treated with 2-DG possessed lower plasma membrane lipid order and higher tension values, respectively. Our novel imaging approach that combines lifetime imaging (FLIM) and SVT revealed not only changes in plasma membrane tension at the point of viral fusion, but also that HIV is less likely to enter cells at areas of higher membrane tension. We therefore have identified a connection between host cell glycolytic activity and membrane tension that influences HIV-1 fusion in real-time at the single-virus fusion level in live cells.					
+Study Key Words	HIV-1 fusion	BlaM assay	Imaging BlaM	Tiled Imaging	FRET imaging		
+						
+Study Organism	Homo sapiens														
+Study Organism Term Source REF	NCBITaxon	
+							
+Study Organism Term Accession	9606																				
+Study Experiments Number	1														
+Study External URL				
+
+Study BioImage Archive Accession																
+Study Public Release Date																																										
+# Study Publication																				
+Study PubMed ID	32084246 																			
+Study Publication Title	Single-cell glycolytic activity regulates membrane tension and HIV-1 fusion							
+Study Author List	Coomer CA, Carlon-Andres I, Iliopoulou M, Dustin ML, Compeer EB, Compton AA, Padilla-Parra S																			
+Study PMC ID	PMC7055913 																			
+Study DOI	https://doi.org/10.1371/journal.ppat.1008359																																							
+# Study Contacts																				
+Study Person Last Name	Padilla-Parra	Coomer																			
+Study Person First Name	Sergi	Charles																		
+Study Person Email	sergi@well.ac.uk or Sergio.padilla_parra@kcl.ac.uk						
+Study Person Address	King’s College London Floor 2 Borough Wing Guy’s Hospital London SE1 9RT							
+Study Person ORCID	https://orcid.org/0000-0002-8010-9481																			
+Study Person Roles	Senior Lecturer and Group Leader	
+
+																									
+# Study License and Data DOI																				
+Study License	CC BY 4.0																			
+Study License URL	https://creativecommons.org/licenses/by/4.0/		
+				
+Study Copyright	Coomer et al																			
+Study Data Publisher	University of Dundee																			
+Study Data DOI						
+																																	
+Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
+Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/															
+																																	
+# EXPERIMENT SECTION							
+# Experiment Section containing all information relative to each experiment in the study including materials used, protocols names and description, phenotype names and description. For multiple experiments this section should be repeated.  Copy and paste the whole section below and fill out for the next experiment								
+Experiment Number	1															
+Comment[IDR Experiment Name]	idr0103-coomer-hiv1fusion/experimentA	
+
+Experiment Sample Type cell
+					
+Experiment Description	TZM-bl cells stably expressing CD4 and CCR5 receptors and charged with CCF2, were exposed to HIV-1 pseudoparticles where the Vpr is cloned with BlaM (Vpr-Blam) at MOI = 1. When treating the cells with 100 mM 2-Deoxyglucose (2DG), HIV-1 fusion is blocked. Successive treatment of these cells with 100, 200 and 400 ug/mL of Cholesterol rescues HIV-1 fusion. This experiment shows that cholesterol is key for HIV-1 fusion and that 2DG might downregulate the concentration of cholesterol in the plasma membrane of the host, impeding HIV-1 to effectively fuse in the host.  There are 3 different repeats and in each repeat 6 different experiments (images acquired in different conditions).  																		
+Experiment Size	5D Images: 	Average Image Dimension (XYZCT):XY C1 and C2	Total Tb: 						
+Experiment Example Images																				
+Experiment Imaging Method	FLIM														
+Experiment Imaging Method Term Source REF	Fbbi																			
+Experiment Imaging Method Term Accession	FBbi_00000368													
+Experiment Comments		
+																											
+# assay files																																	
+Experiment Assay File	idr0000-experimentB-assays																			
+Experiment Assay File Format	tab-delimited text 																			
+Assay Experimental Conditions	No Env (Control sample with HIV-1 Vpr-BlaM pseudoparticles without Env) Exposed to TZM-bl cells (in triplicate).  	JRFL (Control sample with HIV-1 Vpr-BlaM pseudoparticles decorated with JRFL Env, primary isolate) Exposed to TZM-bl cells (in triplicate).  	JRFL + 100 mM 2DG (HIV-1 Vpr-BlaM pseudoparticles decorated with JRFL Env, primary isolate) Exposed to TZM-bl cells in the presence of 100 mM 2DG.  	JRFL + 100 mM 2DG + 100 ug/mL Cholesterol.  	JRFL + 100 mM 2DG + 200 ug/mL Cholesterol.  	JRFL + 100 mM 2DG + 400 ug?mL Cholesterol.  
+
+Assay Experimental Conditions Term Source REF																				
+Assay Experimental Conditions Term Accession																				
+Quality Control Description	All threshold to calculate the FRET ratio of CCF2 cleavage was referred to the No Env condition. 				
+																																	
+# Protocols																																	
+Protocol Name	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type	growth protocol	treatment protocol	image acquisition and feature extraction protocol	data analysis protocol																													
+Protocol Type Term Source REF	EFO	EFO																															
+Protocol Type Term Accession	EFO_0003789	EFO_0003969																															
+Protocol Description	CCF2-loaded TZM-bl cells were excited with a 405nm continuous laser (Leica, Manheim) while recording the emission spectra with a 430-560nm window, pixel by pixel (512 x 512) using a Leica SP8 X-SMD microscope with a lambda resolution of 12 nm. Utilising ImageJ (http://imagej.nih.gov/ij/), the ratio of the blue (440-480nm, cleaved CCF2) to green (500-540nm, uncleaved CCF2) emission was calculated pixel by-pixel using 20X objective. Statistical analyses of the BlaM data were performed using a two-tailed Fishers Exact Test (SigmaPlot, San Jose, CA). Cells were then removed of the CCF2 mixture and allowed to incubate for 24 hours in complete DMEM if they were to be analysed for infection by the B-Gal assay (below) for infection.
+
+Here we present all three trials with tiled images corresponding to the whole well (observation chamber) for both channels (C1 blue emission 440-480 nm) and (C2 (500-540 nm) together with he corresponding BlaM ratio images (thresholded c2/c1). We also present the corresponding negative controls for no HIV-1 fusion at all where the HIV-1 Vpr-BlaM pseudoparticles without Env were exposed to TZM-bl cells. These images are ideal to calculated the threshold for no fusion at all in each of the three repeats.
+
+We also provide a ImageJ/FIJI macro to perform the calculations with an automatic threshold, note however that the results presented were produced adjusting the threshold individually for each image according to the control references.	
+
+
+There are 6 different conditions for all TZM-bl cells exposed to HIV-1 (Vpr-BlaM) pseudoparticles (MOI = 1) with two controls and four different treatments:
+
+1- 100 mM 2DG
+
+2- 100 mM 2DG + 100ug/mL Cholesterol
+
+3- 100 mM SDG + 200 ug?mL Cholesterol 
+
+4- 00 mM SDG + 400 ug?mL Cholesterol 
+	
+
+Labeling: The CCF2 FRET probe
+
+Imaging hardware: As described above and the corresponding paper (confocal imaging utilising 405 nm argon light source, 20X and HyD photon bunting detectors)
+
+Feature extraction methods: Use of Image J where the channel C2 is divided by C1. Previous thresholding methods are applied to both channels to eliminate the background.
+
+We have also produced a macro for ImageJ that could be applied when using ImageJ or Fiji:
+rename("1.tif");
+run("32-bit");
+run("Duplicate...", "title=Blue duplicate channels=1");
+selectWindow("1.tif");
+run("Duplicate...", "title=green duplicate channels=2");
+run("Enhance Contrast", "saturated=0.35");
+selectWindow("Blue");
+selectWindow("green");
+setAutoThreshold("Triangle dark");
+run("NaN Background");
+imageCalculator("Divide create 32-bit", "Blue","green");
+selectWindow("Result of Blue");
+rename("Ratio");
+run("Red/Green");
+run("Invert LUT");
+run("Edit LUT...");
+selectWindow("green");
+close();
+selectWindow("Blue");
+close();
+selectWindow("1.tif");
+close();
+
+The resulting images, after dividing C2/C1 will present different pixel by pixel values that will oscillate between 0 and 1. The higher the number the bigger effect in CCF2 cleavage, indicating that HIV fusion occurred. One can apply a LUT to obtain a pseudocolor image where green stands for No HIV-1 fusion and Red (lower numbers) for HIV-1 fusion (high numbers). We also provide these images (starting with BlaM).
+
+																				
+# Phenotypes																				
+Phenotype Name															
+Phenotype Description																					
+Phenotype Score Type																				
+Phenotype Term Source REF	CMPO																			
+Phenotype Term Name																				
+Phenotype Term Accession			
+																																	
+# Feature Level Data Files (give individual file details unless there is one file per well)								
+Feature Level Data File Name																			
+Feature Level Data File Format																				
+Feature Level Data File Description	Always 1 File per well for all three repeats						
+Feature Level Data Column Name																		
+Feature Level Data Column Description																																										
+#  Processed Data Files 																				
+Processed Data File Name	All data processed files start with "BlaM" and the condition					
+Processed Data File Format	tab-delimited text																	
+Processed Data File Description																	
+Processed Data Column Name																				
+Processed Data Column Type															
+Processed Data Column Annotation Level																		
+Processed Data Column Description																		
+Processed Data Column Link To Assay File	
