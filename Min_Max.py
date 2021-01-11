@@ -40,7 +40,7 @@ from numpy import average as avg
 import omero.clients
 import omero.cli
 
-project_id = 1451
+project_id = 1501
 imageIds = []
 
 def calcStatsInfo(conn, imageId, choice, debug=False):
