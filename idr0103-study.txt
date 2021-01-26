@@ -22,7 +22,7 @@ Study Experiments Number	1
 Study External URL				
 
 Study BioImage Archive Accession																
-Study Public Release Date																																										
+Study Public Release Date	2021-01-27																																										
 # Study Publication																				
 Study PubMed ID	32084246 																			
 Study Publication Title	Single-cell glycolytic activity regulates membrane tension and HIV-1 fusion							
