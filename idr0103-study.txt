@@ -44,7 +44,7 @@ Study License URL	https://creativecommons.org/licenses/by/4.0/
 				
 Study Copyright	Coomer et al																			
 Study Data Publisher	University of Dundee																			
-Study Data DOI						
+Study Data DOI	https://doi.org/10.17867/10000154					
 																																	
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi																													
 Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/cmpo/	http://purl.obolibrary.org/obo/															
